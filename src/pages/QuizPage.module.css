@@ -1,0 +1,14 @@
+.button {
+  background-color: deepskyblue;
+  border: none;
+  width: fit-content;
+  padding: 15px 30px;
+  border-radius: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: dimgrey;
+  cursor: pointer;
+}
