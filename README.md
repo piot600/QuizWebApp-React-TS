@@ -24,3 +24,9 @@ Mathematical operations with command pattern
 /utils (Math operations)
 
 /index.js (main logic)
+
+
+v0.1
+
+- add unit tests (quizReduces.test.ts, Screen.test.tsx(for (HomeScreen, QuizScreen, ResultScreen).tsx )
+- add integration test (QuizPage.tsx for all flow)
