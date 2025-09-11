@@ -29,3 +29,9 @@ src/
  ├─ state/                    # logika stanu i reducer
  │   └─ quizReducer.ts
 
+
+v0.1
+- add unit tests (quizReduces.test.ts, Screen.test.tsx(for (HomeScreen, QuizScreen, ResultScreen).tsx )
+- add integration test (QuizPage.tsx for all flow)
+
+
