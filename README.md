@@ -8,6 +8,9 @@ How to run app: **npm run dev**
 
 ![image alt](https://github.com/piot600/QuizWebApp-React-TS/blob/084af5bea32c2ed6b78635f89b123e711cab8fbb/src/assets/QuizAppUI.jpg)
 
+Theme 
+![image alt](https://github.com/piot600/QuizWebApp-React-TS/blob/361d3e0b57678bb676cf987db7b1c2de3e1ae5b7/src/assets/ThemeContext.jpg)
+
 Folders Structure:
 
 src/
