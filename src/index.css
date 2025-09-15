@@ -9,8 +9,22 @@ body,
 }
 
 #root {
-  background-color: dimgrey;
+  background-color: var(--page-bg-color);
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --shadow-color: rgb(0, 229, 255);
+  --page-bg-color: dimgrey;
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --shadow-color: rgb(255, 0, 230);
+  --page-bg-color: skyblue;
 }

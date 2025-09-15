@@ -1,5 +1,5 @@
 .button {
-  background-color: deepskyblue;
+  background-color: var(--shadow-color);
   border: none;
   width: fit-content;
   padding: 15px 30px;
@@ -11,4 +11,9 @@
 .button:hover {
   background-color: dimgrey;
   cursor: pointer;
+}
+
+.score {
+  font-size: 30px;
+  font-weight: bold;
 }
