@@ -1,6 +1,6 @@
 import { questions } from "../assets/questions";
 
-type State = {
+export type State = {
   stage: "home" | "quiz" | "result";
   currentQuestion: number;
   score: number;
